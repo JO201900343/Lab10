@@ -1,0 +1,32 @@
+.foot{
+  height: auto;
+  background-color: #aac1d8;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  padding: 20px;
+  display: flex;
+  position: fixed;
+  width: 97%;
+  bottom:0;
+}
+ .foot footer{
+    align-items: center;
+    width: 100%;
+    color: #265086;
+}
+h3,h2 {
+  font-family: Poppins;
+  text-align: center;
+}
+
+.header{
+  font-family: Poppins;
+  background-color: #aac1d8;
+  color: #265086;
+  text-align: center;
+  border-radius: 10px;
+  padding: 1px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
